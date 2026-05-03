@@ -1,2 +1,4 @@
-# Trabajos-Trujillo
-Calendario de eventos, barberia-api, API-BD 
+# Trabajos utilzando API's  
+Calendario de Eventos  
+Barberia-api ( sistema para una barberia ) 
+API-BD  
